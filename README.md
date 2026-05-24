@@ -10,6 +10,6 @@ CS student at **FIT CTU Prague** (2025–), focused on backend development, syst
 
 ---
 
-Outside of code: production work in the music industry — Pohoda, Grape, Fuchs2, Tabačka Kulturfabrik.
+Outside of code: production work in the music industry — Pohoda, Rock for People, Fuchs2, Tabačka Kulturfabrik.
 
 📫 martinkuch9@gmail.com
