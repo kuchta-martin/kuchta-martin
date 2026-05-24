@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Hi, I'm Martin 👋
 
 CS student at **FIT CTU Prague** (2025–), focused on backend development, systems programming, and data engineering.
